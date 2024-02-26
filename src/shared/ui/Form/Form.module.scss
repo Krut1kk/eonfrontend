@@ -1,0 +1,18 @@
+.Form {
+  max-width: 500px;
+  align-items: center;
+  width: 100%;
+  border: 1px solid black;
+  border-radius: 7px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 20px;
+  height: 410px;
+}
+
+.title {
+  font-size: 22px;
+  font-weight: 600;
+  text-align: center;
+}

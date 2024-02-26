@@ -1,0 +1,17 @@
+.Post {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 4px;
+  max-width: 400px;
+  width: 100%;
+}
+
+.description {
+  max-width: 360px;
+  word-wrap: break-word;
+}
